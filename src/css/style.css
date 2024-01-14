@@ -16,5 +16,8 @@ body {
 }
 
 .skill {
-    
+    width: 160px;
+    height: 160px;
+    /*background: cornflowerblue;*/
+    position: relative;
 }
